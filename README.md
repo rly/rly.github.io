@@ -1,4 +1,1 @@
-rly.github.io
-=============
-
-A personal GitHub page
+# rly.github.io
